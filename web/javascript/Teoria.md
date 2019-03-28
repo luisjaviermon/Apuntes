@@ -4,6 +4,7 @@
 ## Indice <a name="indice"></a>
 
 * [Como trabajar en javascript](#ComoTrabajarConJavaScript)
+* [Variables](#variables)
 
 ### Como trabajar con javascript <a name="ComoTrabajarConJavaScript"></a>([regresar al indice](#indice))
 
@@ -42,3 +43,17 @@ Esta practica no es muy recomendable y en cambio se recomienda que el codigo se 
 ~~~
 
 Esto se hace con el fin de cargar los elementos del html y css para posteriormente poder manipularlos.
+
+## Variables<a name="ComoTrabajarConJavaScript"></a>
+
+A grandes rasgos una variable es un contenedor que almacena valores de algun tipo. Su sintaxis basica es
+
+~~~
+var variable = valor;
+~~~
+
+La ventaja de una variables es que el valor siempre puede cambiar dependiendo de la situacion.
+
+
+
+
