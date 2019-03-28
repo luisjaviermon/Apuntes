@@ -20,4 +20,5 @@ Tradicionalmente se venía utilizando en páginas web HTML para realizar operaci
 
 Desde el lanzamiento en junio de 1997 del estándar ECMAScript 1, han existido las versiones 2, 3 y 5, que es la más usada actualmente (la 4 se abandonó6​). En junio de 2015 se cerró y publicó la versión ECMAScript 6.7​ 
 
-### Como trabajar con javascript <a name="ComoTrabajarConJavaScript"></a>
+<div id="ComoTrabajarConJavaScript"/>
+### Como trabajar con javascript 
